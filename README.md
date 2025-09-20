@@ -33,7 +33,7 @@
 *   **Backend**: [https://github.com/FSI-AI-Challenge/backend](https://github.com/FSI-AI-Challenge/backend)
 *   **Frontend**: [https://github.com/FSI-AI-Challenge/frontend](https://github.com/FSI-AI-Challenge/frontend)
 
-## 🚀 시작하기
+## 🚀 Run
 
 ### 1. Backend 서버 실행
 

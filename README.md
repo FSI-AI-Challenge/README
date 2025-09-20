@@ -27,7 +27,7 @@
 
 ## 🔗 하위 저장소 링크
 
-각 프로젝트의 상세 코드는 아래 링크에서 확인하실 수 있습니다.
+본 프로젝트의 상세 코드는 아래 링크에서 확인하실 수 있습니다.
 
 *   **Agent**: [https://github.com/FSI-AI-Challenge/agent](https://github.com/FSI-AI-Challenge/agent)
 *   **Backend**: [https://github.com/FSI-AI-Challenge/backend](https://github.com/FSI-AI-Challenge/backend)

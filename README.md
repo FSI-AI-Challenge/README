@@ -2,7 +2,7 @@
 
 본 프로젝트는 2025 금융 AI 챌린지를 위해 개발된 AI 금융 자문 챗봇입니다. 사용자의 목표와 성향에 맞춰 개인화된 금융 포트폴리오를 추천하고, 시장 상황에 따라 동적으로 포트폴리오를 관리해주는 지능형 금융 비서입니다.
 
-## - 프로젝트 목표
+## 프로젝트 목표
 
 본 프로젝트는 다음 목표를 달성하기 위해 설계되었습니다.
 
@@ -11,11 +11,11 @@
 *   **데이터 기반 의사결정**: 실시간 금융 데이터, 시장 뉴스, 공시 정보 등을 분석하여 객관적이고 합리적인 투자 결정을 지원합니다.
 *   **지능형 에이전트 구현**: LangGraph를 활용하여 복잡한 금융 분석 및 추천 과정을 자동화하고, 사용자에게 진행 상황을 투명하게 시각화하여 신뢰를 제공합니다.
 
-## - 팀
+## 팀
 
 *   **KFC** (Kookmin Financial seCurity)
 
-## - 시스템 아키텍처
+## 시스템 아키텍처
 
 이 시스템은 세 개의 주요 구성요소로 이루어져 있습니다.
 
@@ -33,7 +33,7 @@
 *   **Backend**: [https://github.com/FSI-AI-Challenge/backend](https://github.com/FSI-AI-Challenge/backend)
 *   **Frontend**: [https://github.com/FSI-AI-Challenge/frontend](https://github.com/FSI-AI-Challenge/frontend)
 
-## - Run
+## Run
 
 ### 1. Backend 서버 실행
 
